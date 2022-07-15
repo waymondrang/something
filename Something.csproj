@@ -13,8 +13,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Remove="Assets\Fonts\PPEditorialNew-Regular.ttf" />
-    <Content Remove="Assets\Images\4dem.jpg" />
-    <Content Remove="Assets\Images\alu.png" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="MainWindow.xaml" />
